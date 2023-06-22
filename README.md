@@ -5,6 +5,6 @@
 - 📫 How to reach me akshayroy217@gmail.com
 
 <!---
-Rexerdo/Rexerdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+akelaIPv4/akelaIPv4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
